@@ -7,4 +7,5 @@ streamlit.text('🥣 Meal 1')
 streamlit.text('🥗 Meal 2')
 streamlit.text('🐔Meal 3')
 streamlit.text('🥑🍞Meal 3')
- 
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
